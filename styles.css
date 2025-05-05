@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #888888;
+}
+
+button{
+
+    padding: 10px;
+    color: rgb(107, 228, 93);
+    background-color: black;
+    border-radius: 12px;
+}
